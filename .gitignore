@@ -1,3 +1,7 @@
+# Files
+############
+*.numbers
+
 # Created from Running Parser or Crawler #
 ###################
 *.bib
